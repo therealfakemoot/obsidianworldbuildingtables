@@ -1,10 +1,16 @@
 ---
 date: 2022-04-16
 title: "Weather"
+summary: ""
+alias: ["Weather Generator"]
 tags:
 - worldbuilding
+- Type/List
+- Status/Good
+- dnd
+- software/procedural-generation
 ---
-
+`button-reroll-dice`
 > [!info] Weather 
 > 
 > Temperature: `dice: [[Weather#^temperature]]|Temperature`

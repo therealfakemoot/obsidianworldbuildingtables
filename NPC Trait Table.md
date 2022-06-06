@@ -1,14 +1,19 @@
 ---
 date: 2022-04-15
 title: "NPC Trait Table"
+aliases: ["NPC Trait Table"]
 tags:
+- Type/List
+- Status/Fluid
 - worldbuilding
+- software/procedural-generation
 ---
 
 Sources: 
 Dungeon Master's Guide 5e
 Dungeon Master's Guide 3.5
 
+`button-reroll-dice`
 
 > [!info]+  NPC Trait Generator
 > 
