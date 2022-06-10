@@ -178,13 +178,13 @@ NPC Attitude
 
 | dice: 1d100 | Attitude                                            |
 | ----------- | --------------------------------------------------- |
-| 1-12        | `dice: [[00 PARA/00 Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|scheming`         |
-| 13-24       | `dice: [[00 PARA/00 Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^172ac5]]|friendly`          |
-| 25-36       | `dice: [[00 PARA/00 Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|friendly`         |
-| 37-49       |  `dice: [[00 PARA/00 Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|hostile` |
+| 1-12        | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|scheming`         |
+| 13-24       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^172ac5]]|friendly`          |
+| 25-36       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|friendly`         |
+| 37-49       |  `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|hostile` |
 | 50-62       | inquisitive                                         |
 | 63-75       | knowing                                             |
-| 76-88       | `dice: [[00 PARA/00 Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^b3c5c9]]|`       |
+| 76-88       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^b3c5c9]]|`       |
 
 ^36c794
 
