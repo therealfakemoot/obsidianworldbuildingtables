@@ -13,7 +13,8 @@ tags:
 - character/npc
 ---
 `button-reroll-dice`
-A `dice:[[npcpersonality#^26fb6c]]|Modifier`  `dice:[[npcpersonality#^26fb6c]]|Noun` with `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun` and `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun`  as their motivation.
+
+A `dice:[[npc-personality-generator#^26fb6c]]|Modifier`  `dice:[[npc-personality-generator#^26fb6c]]|Noun` with `dice:[[npc-personality-generator#^26fb6c]]|Motivation Verb` `dice:[[npc-personality-generator#^26fb6c]]|Motivation Noun` and `dice:[[npc-personality-generator#^26fb6c]]|Motivation Verb` `dice:[[npc-personality-generator#^26fb6c]]|Motivation Noun`  as their motivation.
 
 Table 1: NPC  
 
@@ -178,19 +179,18 @@ NPC Attitude
 
 | dice: 1d100 | Attitude                                            |
 | ----------- | --------------------------------------------------- |
-| 1-12        | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|scheming`         |
-| 13-24       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^172ac5]]|friendly`          |
-| 25-36       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|friendly`         |
-| 37-49       |  `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|hostile` |
+| 1-12        | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|scheming`|
+| 13-24       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^172ac5]]|friendly`|
+| 25-36       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|friendly`|
+| 37-49       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^5ae0fd]]|hostile`|
 | 50-62       | inquisitive                                         |
 | 63-75       | knowing                                             |
-| 76-88       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^b3c5c9]]|`       |
+| 76-88       | `dice: [[00-PARA/00-Resources/DnD/obsidianworldbuildingtables/npc-personality-generator#^b3c5c9]]|`|
 
 ^36c794
 
-`dice: [[npcpersonality#^mysterious]]`
+`dice: [[npc-personality-generator#^mysterious]]`
  
-`dice: [[npcpersonality#^b3c5c9]]|prejudiced`
 
 | scheming    | insane       |
 | ----------- | ------------ |
