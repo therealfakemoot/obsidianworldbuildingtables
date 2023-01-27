@@ -18,12 +18,19 @@ When creating a settlement for your campaign, focus on the locations that are mo
 > [!info] Settlement
 > 
 > Community Size: `dice:[[Settlements#^size]]` 
-> Race Relations:  `dice: [[Settlements#^race]]`
-> Ruler's Status:  `dice: [[Settlements#^ruler]]`
-> Notable Traits:  `dice: [[Settlements#^notable]]`
-> Known for its  `dice: [[Settlements#^known]]`
-> Current Calamity:  `dice: [[Settlements#^calamity]]`
-> Overall Alignment: `dice:[[Settlements#^alignment]]`
+> 
+> Race Relations:  `dice: [[Settlements#^race]]` 
+> 
+> Ruler's Status:  `dice: [[Settlements#^ruler]]` 
+> 
+> Notable Traits:  `dice: [[Settlements#^notable]]` 
+> 
+> Known for its  `dice: [[Settlements#^known]]` 
+> 
+> Current Calamity:  `dice: [[Settlements#^calamity]]` 
+> 
+> Overall Alignment: `dice:[[Settlements#^alignment]]` 
+> 
 > Government: `dice: [[Settlements#^Government]]`
 ^generator
 
