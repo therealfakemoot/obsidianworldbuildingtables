@@ -1,7 +1,7 @@
 ---
 date: 2022-04-24
 title: "the universal NPC emulator revised"
-aliases: the universal NPC emulator revised
+aliases: ["Universal NPC Emulator"]
 author: Zach Best
 tags:
 - Type/List
