@@ -14,8 +14,10 @@ tags:
 ---
 `button-reroll-dice`
 
+## Roller
 A `dice:[[npc-personality-generator#^26fb6c]]|Modifier`  `dice:[[npc-personality-generator#^26fb6c]]|Noun` with `dice:[[npc-personality-generator#^26fb6c]]|Motivation Verb` `dice:[[npc-personality-generator#^26fb6c]]|Motivation Noun` and `dice:[[npc-personality-generator#^26fb6c]]|Motivation Verb` `dice:[[npc-personality-generator#^26fb6c]]|Motivation Noun`  as their motivation.
 
+# Tables
 Table 1: NPC  
 
 | Modifier      | Noun               | Motivation Verb | Motivation Noun  |
