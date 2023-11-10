@@ -5,7 +5,7 @@ summary: "Generate a high level overview of a small settlement."
 aliases: ["Settlement Generator"]
 tags:
 - worldbuilding
-- Type/List
+
 - Status/Good
 - dnd
 - software/procedural-generation

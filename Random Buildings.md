@@ -4,7 +4,7 @@ title: "Random Buildings"
 summary: ""
 aliases: ["Random Building Generator"]
 tags:
-- Type/List
+
 - Status/Good
 - worldbuilding
 - software/procedural-generation

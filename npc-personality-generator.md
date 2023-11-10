@@ -4,7 +4,7 @@ title: "the universal NPC emulator revised"
 aliases: ["Universal NPC Emulator"]
 author: Zach Best
 tags:
-- Type/List
+
 - Status/Good
 - worldbuilding
 - software/procedural-generation

@@ -5,7 +5,7 @@ source: Dungeon Master's Guide 5e
 alias: ["Trinkets Table"]
 tags:
 - worldbuilding
-- Type/List
+
 - Status/Good
 - dnd
 - software/procedural-generation

@@ -3,7 +3,7 @@ date: 2022-04-15
 title: "NPC Trait Table"
 aliases: ["NPC Trait Table"]
 tags:
-- Type/List
+
 - Status/Fluid
 - worldbuilding
 - software/procedural-generation

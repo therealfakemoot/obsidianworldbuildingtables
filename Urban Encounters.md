@@ -5,7 +5,7 @@ summary: ""
 alias: ["Urban Encounter Generator"]
 tags:
 - worldbuilding
-- Type/List
+
 - Status/Good
 - dnd
 - software/procedural-generation
