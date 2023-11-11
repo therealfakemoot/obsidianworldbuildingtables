@@ -3,6 +3,7 @@ date: 2022-04-16
 title: "Urban Encounters"
 summary: ""
 alias: ["Urban Encounter Generator"]
+game-system: "general"
 tags:
 - worldbuilding
 
@@ -47,5 +48,4 @@ NOTE: "use Urban Encounter: `dice: [[Urban Encounters]]` to generate a list of t
 
 ***Spectacle***. The characters witness a form of public entertainment, such as a talented bard's impersonation of a royal personage, a street circus, a puppet show, a flashy magic act, a royal visit, or a public execution.
 
-***Urchin.*** A street urchin gloms onto the adventurers and follows them around until frightened off. 
-
+***Urchin.*** A street urchin gloms onto the adventurers and follows them around until frightened off.

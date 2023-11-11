@@ -3,6 +3,7 @@ date: 2022-04-16
 title: "Trinkets Table"
 source: Dungeon Master's Guide 5e
 alias: ["Trinkets Table"]
+game-system: "general"
 tags:
 - worldbuilding
 

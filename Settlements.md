@@ -3,6 +3,7 @@ date: 2022-02-21
 title: "Settlement Generator"
 summary: "Generate a high level overview of a small settlement."
 aliases: ["Settlement Generator"]
+game-system: "general"
 tags:
 - worldbuilding
 
@@ -18,21 +19,21 @@ When creating a settlement for your campaign, focus on the locations that are mo
 `button-reroll-dice`
 ## embed
 > [!info] Settlement
-> 
-> Community Size: `dice:[[Settlements#^size]]` 
-> 
-> Race Relations:  `dice: [[Settlements#^race]]` 
-> 
-> Ruler's Status:  `dice: [[Settlements#^ruler]]` 
-> 
-> Notable Traits:  `dice: [[Settlements#^notable]]` 
-> 
-> Known for its  `dice: [[Settlements#^known]]` 
-> 
-> Current Calamity:  `dice: [[Settlements#^calamity]]` 
-> 
-> Overall Alignment: `dice:[[Settlements#^alignment]]` 
-> 
+>
+> Community Size: `dice:[[Settlements#^size]]`
+>
+> Race Relations:  `dice: [[Settlements#^race]]`
+>
+> Ruler's Status:  `dice: [[Settlements#^ruler]]`
+>
+> Notable Traits:  `dice: [[Settlements#^notable]]`
+>
+> Known for its  `dice: [[Settlements#^known]]`
+>
+> Current Calamity:  `dice: [[Settlements#^calamity]]`
+>
+> Overall Alignment: `dice:[[Settlements#^alignment]]`
+>
 > Government: `dice: [[Settlements#^Government]]`
 ^generator
 

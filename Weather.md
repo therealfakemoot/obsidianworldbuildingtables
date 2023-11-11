@@ -3,6 +3,7 @@ date: 2022-04-16
 title: "Weather"
 summary: ""
 alias: ["Weather Generator"]
+game-system: "general"
 tags:
 - worldbuilding
 
@@ -11,12 +12,12 @@ tags:
 - software/procedural-generation
 ---
 `button-reroll-dice`
-> [!info] Weather 
-> 
+> [!info] Weather
+>
 > Temperature: `dice: [[Weather#^temperature]]|Temperature`
-> 
+>
 > Wind: `dice:[[Weather#^wind]]|Wind`
-> 
+>
 > Precipitation: `dice:[[Weather#^precipitation]]|Precipitation`
 
 
